@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>img/acessar.png</file>
+        <file>img/excluir.png</file>
+        <file>img/foto.png</file>
+        <file>img/lista.png</file>
+        <file>img/logo.png</file>
+        <file>img/salvar.png</file>
+        <file>img/mostrar.png</file>
+    </qresource>
+</RCC>
